@@ -6,9 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;duration=2600&amp;pause=900&amp;color=9A7488&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=42&amp;lines=RAG+%26+LLM+applications;Machine+learning+%26+deep+learning;AI%2FML+engineering+%26+software+systems" alt="RAG and LLM applications; machine learning and deep learning; AI/ML engineering and software systems" width="650" />
 
-<p><strong>Artificial Intelligence undergraduate at SLIIT</strong> · Jaffna, Sri Lanka<br />
-Developing AI/ML systems from models and retrieval pipelines to deployed applications.</p>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=NithushanUthayarasa&amp;style=for-the-badge&amp;color=57404D&amp;label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/NithushanUthayarasa?style=for-the-badge&amp;labelColor=343039&amp;color=57404D&amp;logo=github&amp;logoColor=white&amp;label=FOLLOWERS" alt="GitHub followers" />
@@ -26,19 +23,7 @@ I am a **third-year BSc (Hons) Information Technology undergraduate specializing
 
 I build systems end to end: prepare data, train or connect models, design retrieval, evaluate results, and deliver the work through APIs and usable interfaces. My projects include a cited, multi-document RAG assistant, a computer vision classifier, and an AI-supported manufacturing platform.
 
-## What I build
-
-- **RAG and LLM applications:** combine document processing, embeddings, hybrid search, reranking, citations, and evaluation to produce grounded answers.
-- **ML and deep learning models:** develop classification and computer vision pipelines with preprocessing, transfer learning, cross-validation, and measurable results.
-- **Software systems:** connect AI services to REST APIs, databases, authentication, and web or mobile interfaces.
-
-## Technical expertise
-
-### Programming languages
-
-<img src="https://skillicons.dev/icons?i=py,java,js&amp;theme=dark" alt="Python, Java, JavaScript" />
-
-`Python` · `Java` · `JavaScript`
+## AI & Machine Learning
 
 ### Machine learning & deep learning
 
@@ -48,13 +33,27 @@ I build systems end to end: prepare data, train or connect models, design retrie
 
 **Methods:** `Machine Learning` · `Deep Learning` · `Transfer Learning` · `NLP` · `Computer Vision` · `Model Evaluation`
 
-### Generative AI & retrieval
+### Generative AI & agents
 
-**Frameworks and models:** `LangChain Core` · `LangGraph` · `Gemini` · `LLM APIs`
+**Frameworks and models:** `LangChain Core` · `LangGraph` · `Gemini` · `LLMs` · `LLM APIs`
 
-**Systems:** `RAG` · `LLMs` · `AI Agents` · `Embeddings` · `Vector Search` · `Hybrid Retrieval` · `Vector Databases` · `ChromaDB`
+**AI systems:** `AI Agents` · `Agentic Workflows` · `Multi-Agent Systems`
 
-**Ranking:** `BM25` · `TF-IDF` · `Reciprocal Rank Fusion`
+### Retrieval & RAG
+
+**Retrieval systems:** `RAG` · `Embeddings` · `Vector Search` · `Hybrid Retrieval` · `Vector Databases` · `ChromaDB`
+
+**Search and ranking:** `BM25` · `TF-IDF` · `Reciprocal Rank Fusion` · `Reranking` · `Citations` · `Retrieval Evaluation`
+
+---
+
+## Software Development
+
+### Programming languages
+
+<img src="https://skillicons.dev/icons?i=py,java,js&amp;theme=dark" alt="Python, Java, JavaScript" />
+
+`Python` · `Java` · `JavaScript`
 
 ### Backend development & APIs
 
@@ -76,11 +75,15 @@ I build systems end to end: prepare data, train or connect models, design retrie
 
 `PostgreSQL` · `MongoDB` · `Database Design`
 
-### Software Engineering
+### Engineering practices
 
 `Object-Oriented Programming` · `Full-Stack Development` · `Model-to-API Integration`
 
-### Development & deployment tools
+---
+
+## Development & Deployment
+
+### Tools & platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,vercel&amp;theme=dark" alt="Git, GitHub, Postman, VS Code, IntelliJ IDEA, Vercel" />
 
