@@ -15,7 +15,7 @@ I build retrieval systems, machine learning models, and AI-enabled applications.
 
 ## Selected work
 
-<table>
+<table width="100%">
   <tr><td>
     <h3>01 · ContextIQ</h3>
     <p><strong>RAG-powered intelligence system</strong> · Multi-document question answering with grounded responses and page-level citations.</p>
@@ -25,7 +25,7 @@ I build retrieval systems, machine learning models, and AI-enabled applications.
   </td></tr>
 </table>
 
-<table>
+<table width="100%">
   <tr><td>
     <h3>02 · Automated Manufacturing Inventory Coordinator</h3>
     <p><strong>Team-built AI manufacturing platform</strong> · Full-stack inventory and defect workflows supported by a multi-agent LangGraph service.</p>
@@ -35,7 +35,7 @@ I build retrieval systems, machine learning models, and AI-enabled applications.
   </td></tr>
 </table>
 
-<table>
+<table width="100%">
   <tr><td>
     <h3>03 · Garbage Image Classification</h3>
     <p><strong>Computer vision for waste sorting</strong> · CNN transfer learning across 10 categories and more than 20,000 images.</p>
@@ -45,7 +45,7 @@ I build retrieval systems, machine learning models, and AI-enabled applications.
   </td></tr>
 </table>
 
-<table>
+<table width="100%">
   <tr><td>
     <h3>04 · Cyber Threats &amp; Financial Loss Prediction</h3>
     <p><strong>Comparative machine learning pipeline</strong> · Predicts high-risk financial losses from cyber incidents.</p>
@@ -79,16 +79,19 @@ I build retrieval systems, machine learning models, and AI-enabled applications.
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV" />
 
-<br />
-![Keras](https://img.shields.io/badge/Keras-57404D?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-57404D?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-57404D?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Keras-57404D?style=for-the-badge&amp;logo=keras&amp;logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-57404D?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-57404D?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+</p>
 
 ### Generative AI and retrieval
 
-![Gemini](https://img.shields.io/badge/Gemini-57404D?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain Core](https://img.shields.io/badge/LangChain_Core-57404D?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-47454A?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Gemini-57404D?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangChain_Core-57404D?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain Core" />
+  <img src="https://img.shields.io/badge/LangGraph-47454A?style=for-the-badge" alt="LangGraph" />
+</p>
 
 <sub>RAG · LLMs · Embeddings · Vector search · BM25 · TF-IDF · Reciprocal rank fusion</sub>
 
@@ -102,23 +105,22 @@ I build retrieval systems, machine learning models, and AI-enabled applications.
 
 <img src="https://skillicons.dev/icons?i=react,flutter&amp;theme=dark" alt="React, Flutter" />
 
-<br />
-![Streamlit](https://img.shields.io/badge/Streamlit-57404D?style=for-the-badge&logo=streamlit&logoColor=white)
+<p><img src="https://img.shields.io/badge/Streamlit-57404D?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" /></p>
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&amp;theme=dark" alt="PostgreSQL, MongoDB" />
 
-<br />
-![ChromaDB](https://img.shields.io/badge/ChromaDB-47454A?style=for-the-badge)
+<p><img src="https://img.shields.io/badge/ChromaDB-47454A?style=for-the-badge" alt="ChromaDB" /></p>
 
 ### Developer tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,vercel&amp;theme=dark" alt="Git, GitHub, Postman, VS Code, IntelliJ IDEA, Vercel" />
 
-<br />
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-57404D?style=for-the-badge&logo=jupyter&logoColor=white)
-![Render](https://img.shields.io/badge/Render-57404D?style=for-the-badge&logo=render&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-57404D?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Render-57404D?style=for-the-badge&amp;logo=render&amp;logoColor=white" alt="Render" />
+</p>
 
 ---
 
