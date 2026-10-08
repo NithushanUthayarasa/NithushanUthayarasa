@@ -25,31 +25,19 @@ I build systems end to end: prepare data, train or connect models, design retrie
 
 ## AI & Machine Learning
 
-### Machine learning & deep learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV" />
-
 <table width="100%">
   <tr><th width="135">Area</th><th>Skills</th></tr>
+  <tr><th colspan="2" align="left">Machine learning &amp; deep learning</th></tr>
+  <tr><td colspan="2"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV" /></td></tr>
   <tr><td>Frameworks</td><td><code>TensorFlow / Keras</code> · <code>scikit-learn</code> · <code>OpenCV</code></td></tr>
   <tr><td>Data</td><td><code>Pandas</code> · <code>NumPy</code></td></tr>
   <tr><td>Methods</td><td><code>Machine Learning</code> · <code>Deep Learning</code> · <code>Transfer Learning</code> · <code>Model Evaluation</code></td></tr>
   <tr><td>Domains</td><td><code>NLP</code> · <code>Computer Vision</code></td></tr>
-</table>
-
-### Generative AI & agents
-
-<table width="100%">
-  <tr><th width="135">Area</th><th>Skills</th></tr>
+  <tr><th colspan="2" align="left">Generative AI &amp; agents</th></tr>
   <tr><td>Orchestration</td><td><code>LangChain Core</code> · <code>LangGraph</code></td></tr>
   <tr><td>Models &amp; APIs</td><td><code>Gemini</code> · <code>LLMs</code> · <code>LLM APIs</code></td></tr>
   <tr><td>Agents</td><td><code>AI Agents</code> · <code>Agentic Workflows</code> · <code>Multi-Agent Systems</code></td></tr>
-</table>
-
-### Retrieval & RAG
-
-<table width="100%">
-  <tr><th width="135">Area</th><th>Skills</th></tr>
+  <tr><th colspan="2" align="left">Retrieval &amp; RAG</th></tr>
   <tr><td>Pipelines</td><td><code>RAG</code> · <code>Hybrid Retrieval</code> · <code>Citations</code> · <code>Retrieval Evaluation</code></td></tr>
   <tr><td>Vector search</td><td><code>Embeddings</code> · <code>Vector Search</code> · <code>Vector Databases</code> · <code>ChromaDB</code></td></tr>
   <tr><td>Ranking</td><td><code>BM25</code> · <code>TF-IDF</code> · <code>Reciprocal Rank Fusion</code> · <code>Reranking</code></td></tr>
