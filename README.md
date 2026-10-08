@@ -23,65 +23,81 @@ I am a **third-year BSc (Hons) Information Technology undergraduate specializing
 
 I build systems end to end: prepare data, train or connect models, design retrieval, evaluate results, and deliver the work through APIs and usable interfaces. My projects include a cited, multi-document RAG assistant, a computer vision classifier, and an AI-supported manufacturing platform.
 
-## AI & Machine Learning
+## 🧠 AI & Machine Learning
 
-<table width="100%">
-  <tr><th width="135">Area</th><th>Skills</th></tr>
-  <tr><th colspan="2" align="left">Machine learning &amp; deep learning</th></tr>
-  <tr><td colspan="2"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV" /></td></tr>
-  <tr><td>Frameworks</td><td><code>TensorFlow / Keras</code> · <code>scikit-learn</code> · <code>OpenCV</code></td></tr>
-  <tr><td>Data</td><td><code>Pandas</code> · <code>NumPy</code></td></tr>
-  <tr><td>Methods</td><td><code>Machine Learning</code> · <code>Deep Learning</code> · <code>Transfer Learning</code> · <code>Model Evaluation</code></td></tr>
-  <tr><td>Domains</td><td><code>NLP</code> · <code>Computer Vision</code></td></tr>
-  <tr><th colspan="2" align="left">Generative AI &amp; agents</th></tr>
-  <tr><td>Orchestration</td><td><code>LangChain Core</code> · <code>LangGraph</code></td></tr>
-  <tr><td>Models &amp; APIs</td><td><code>Gemini</code> · <code>LLMs</code> · <code>LLM APIs</code></td></tr>
-  <tr><td>Agents</td><td><code>AI Agents</code> · <code>Agentic Workflows</code> · <code>Multi-Agent Systems</code></td></tr>
-  <tr><th colspan="2" align="left">Retrieval &amp; RAG</th></tr>
-  <tr><td>Pipelines</td><td><code>RAG</code> · <code>Hybrid Retrieval</code> · <code>Citations</code> · <code>Retrieval Evaluation</code></td></tr>
-  <tr><td>Vector search</td><td><code>Embeddings</code> · <code>Vector Search</code> · <code>Vector Databases</code> · <code>ChromaDB</code></td></tr>
-  <tr><td>Ranking</td><td><code>BM25</code> · <code>TF-IDF</code> · <code>Reciprocal Rank Fusion</code> · <code>Reranking</code></td></tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="46" height="46" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="46" height="46" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="46" height="46" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="46" height="46" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="46" height="46" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="46" height="46" />
+</p>
+<p align="center"><sub>TensorFlow · Keras · scikit-learn · OpenCV · Pandas · NumPy</sub></p>
+<p align="center"><code>Machine Learning</code> · <code>Deep Learning</code> · <code>Computer Vision</code> · <code>NLP</code> · <code>Transfer Learning</code> · <code>Model Evaluation</code></p>
 
----
+## 🤖 Generative AI & Agentic AI
 
-## Software Development
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-57404D?style=for-the-badge&amp;logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain_Core-57404D?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain Core" />
+  <img src="https://img.shields.io/badge/Google_Gemini-57404D?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-57404D?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/AI_Agents-57404D?style=for-the-badge" alt="AI Agents" />
+</p>
+<p align="center"><code>Agentic Workflows</code> · <code>Multi-Agent Systems</code> · <code>LLM APIs</code></p>
 
-### Programming languages
+## 🔍 RAG & Retrieval Engineering
 
-<img src="https://skillicons.dev/icons?i=py,java,js&amp;theme=dark" alt="Python, Java, JavaScript" />
-
-`Python` · `Java` · `JavaScript`
-
-### Backend development & APIs
-
-<img src="https://skillicons.dev/icons?i=fastapi,dotnet,spring,nodejs,express&amp;theme=dark" alt="FastAPI, ASP.NET Core, Spring Boot, Node.js, Express.js" />
-
-`FastAPI` · `ASP.NET Core` · `Spring Boot` · `Node.js` · `Express.js`
-
-**API design:** `REST APIs` · `Authentication & Authorization` · `JWT`
-
-### Frontend & interfaces
-
-<img src="https://skillicons.dev/icons?i=react,flutter&amp;theme=dark" alt="React, Flutter" />
-
-`React` · `Flutter` · `Streamlit`
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&amp;theme=dark" alt="PostgreSQL, MongoDB" />
-
-`PostgreSQL` · `MongoDB` · `Database Design`
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-57404D?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/ChromaDB-57404D?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Vector_Databases-57404D?style=for-the-badge" alt="Vector Databases" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Embeddings-57404D?style=for-the-badge" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/BM25-57404D?style=for-the-badge" alt="BM25" />
+  <img src="https://img.shields.io/badge/TF--IDF-57404D?style=for-the-badge" alt="TF-IDF" />
+</p>
+<p align="center"><code>Hybrid Retrieval</code> · <code>Reciprocal Rank Fusion</code> · <code>Reranking</code> · <code>Citation Grounding</code> · <code>Retrieval Evaluation</code></p>
 
 ---
 
-## Development & Deployment
+## 💻 Programming Languages
 
-### Tools & platforms
+<p align="center"><img src="https://skillicons.dev/icons?i=py,java,js,cs,dart&amp;theme=dark" alt="Python, Java, JavaScript, C#, Dart" height="48" /></p>
+<p align="center"><sub>Python · Java · JavaScript · C# · Dart</sub></p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,vercel&amp;theme=dark" alt="Git, GitHub, Postman, VS Code, IntelliJ IDEA, Vercel" />
+## ⚙️ Backend Development & APIs
 
-`Git` · `GitHub` · `Postman` · `Jupyter Notebook` · `VS Code` · `IntelliJ IDEA` · `Vercel` · `Render`
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,dotnet&amp;theme=dark" alt="Node.js, Express.js, Spring Boot, FastAPI, ASP.NET Core" height="48" /></p>
+<p align="center"><sub>Node.js · Express.js · Spring Boot · FastAPI · ASP.NET Core</sub></p>
+<p align="center"><code>REST APIs</code> · <code>Authentication</code> · <code>Authorization</code> · <code>JWT</code> · <code>Backend Development</code></p>
+
+## 🎨 Frontend & Interfaces
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter&amp;theme=dark" alt="React, Flutter" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48" />
+</p>
+<p align="center"><sub>React · Flutter · Streamlit</sub></p>
+
+## 🗄️ Databases
+
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb&amp;theme=dark" alt="PostgreSQL, MongoDB" height="48" /></p>
+<p align="center"><sub>PostgreSQL · MongoDB</sub></p>
+
+## 🛠️ Development Tools & Deployment
+
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea&amp;theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA" height="48" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,vercel&amp;theme=dark" alt="Postman, Vercel" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="48" height="48" />
+</p>
+<p align="center"><img src="https://img.shields.io/badge/Render-57404D?style=for-the-badge&amp;logo=render&amp;logoColor=white" alt="Render deployment platform" /></p>
+<p align="center"><sub>Git · GitHub · VS Code · IntelliJ IDEA · Postman · Jupyter Notebook · Vercel · Render</sub></p>
 
 ---
 
