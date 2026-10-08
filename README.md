@@ -24,13 +24,12 @@ I build systems end to end: prepare data, train or connect models, design retrie
 ## 🧠 AI & Machine Learning
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="46" height="46" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="46" height="46" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="46" height="46" />
-  <br />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="46" height="46" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="46" height="46" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="46" height="46" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
 </p>
 <p align="left"><sub>TensorFlow · Keras · scikit-learn · OpenCV · Pandas · NumPy</sub></p>
 <p align="left"><code>Machine Learning</code> · <code>Deep Learning</code> · <code>Computer Vision</code> · <code>NLP</code> · <code>Transfer Learning</code> · <code>Model Evaluation</code></p>
@@ -41,8 +40,6 @@ I build systems end to end: prepare data, train or connect models, design retrie
   <img src="https://img.shields.io/badge/LangGraph-57404D?style=for-the-badge&amp;logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LangChain_Core-57404D?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain Core" />
   <img src="https://img.shields.io/badge/Google_Gemini-57404D?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Google Gemini" />
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/LLMs-57404D?style=for-the-badge" alt="LLMs" />
   <img src="https://img.shields.io/badge/AI_Agents-57404D?style=for-the-badge" alt="AI Agents" />
 </p>
@@ -54,8 +51,6 @@ I build systems end to end: prepare data, train or connect models, design retrie
   <img src="https://img.shields.io/badge/RAG-57404D?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/ChromaDB-57404D?style=for-the-badge" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Vector_Databases-57404D?style=for-the-badge" alt="Vector Databases" />
-</p>
-<p align="left">
   <img src="https://img.shields.io/badge/Embeddings-57404D?style=for-the-badge" alt="Embeddings" />
   <img src="https://img.shields.io/badge/BM25-57404D?style=for-the-badge" alt="BM25" />
   <img src="https://img.shields.io/badge/TF--IDF-57404D?style=for-the-badge" alt="TF-IDF" />
@@ -90,12 +85,11 @@ I build systems end to end: prepare data, train or connect models, design retrie
 
 ## 🛠️ Development Tools & Deployment
 
-<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea&amp;theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA" height="48" /></p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,vercel&amp;theme=dark" alt="Postman, Vercel" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel&amp;theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman, Vercel" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="36" height="36" />
+  <img src="https://img.shields.io/badge/Render-57404D?style=for-the-badge&amp;logo=render&amp;logoColor=white" alt="Render deployment platform" />
 </p>
-<p align="left"><img src="https://img.shields.io/badge/Render-57404D?style=for-the-badge&amp;logo=render&amp;logoColor=white" alt="Render deployment platform" /></p>
 <p align="left"><sub>Git · GitHub · VS Code · IntelliJ IDEA · Postman · Jupyter Notebook · Vercel · Render</sub></p>
 
 ---
