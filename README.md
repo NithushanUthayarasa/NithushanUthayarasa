@@ -29,21 +29,28 @@ I build systems end to end: prepare data, train or connect models, design retrie
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV" />
 
-**Libraries:** `TensorFlow / Keras` · `scikit-learn` · `OpenCV` · `Pandas` · `NumPy`
-
-**Methods:** `Machine Learning` · `Deep Learning` · `Transfer Learning` · `NLP` · `Computer Vision` · `Model Evaluation`
+| Area | Skills |
+| --- | --- |
+| Frameworks | `TensorFlow / Keras` · `scikit-learn` · `OpenCV` |
+| Data | `Pandas` · `NumPy` |
+| Methods | `Machine Learning` · `Deep Learning` · `Transfer Learning` · `Model Evaluation` |
+| Domains | `NLP` · `Computer Vision` |
 
 ### Generative AI & agents
 
-**Frameworks and models:** `LangChain Core` · `LangGraph` · `Gemini` · `LLMs` · `LLM APIs`
-
-**AI systems:** `AI Agents` · `Agentic Workflows` · `Multi-Agent Systems`
+| Area | Skills |
+| --- | --- |
+| Orchestration | `LangChain Core` · `LangGraph` |
+| Models & APIs | `Gemini` · `LLMs` · `LLM APIs` |
+| Agents | `AI Agents` · `Agentic Workflows` · `Multi-Agent Systems` |
 
 ### Retrieval & RAG
 
-**Retrieval systems:** `RAG` · `Embeddings` · `Vector Search` · `Hybrid Retrieval` · `Vector Databases` · `ChromaDB`
-
-**Search and ranking:** `BM25` · `TF-IDF` · `Reciprocal Rank Fusion` · `Reranking` · `Citations` · `Retrieval Evaluation`
+| Area | Skills |
+| --- | --- |
+| Pipelines | `RAG` · `Hybrid Retrieval` · `Citations` · `Retrieval Evaluation` |
+| Vector search | `Embeddings` · `Vector Search` · `Vector Databases` · `ChromaDB` |
+| Ranking | `BM25` · `TF-IDF` · `Reciprocal Rank Fusion` · `Reranking` |
 
 ---
 
@@ -74,10 +81,6 @@ I build systems end to end: prepare data, train or connect models, design retrie
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&amp;theme=dark" alt="PostgreSQL, MongoDB" />
 
 `PostgreSQL` · `MongoDB` · `Database Design`
-
-### Engineering practices
-
-`Object-Oriented Programming` · `Full-Stack Development` · `Model-to-API Integration`
 
 ---
 
@@ -133,10 +136,6 @@ I build systems end to end: prepare data, train or connect models, design retrie
   </td></tr>
 </table>
 
-## Current focus
-
-`Advanced RAG evaluation` · `Agentic workflows` · `Computer vision` · `AI service design` · `Full-stack integration`
-
 ## GitHub analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=NithushanUthayarasa&amp;show_icons=true&amp;hide_rank=true&amp;disable_animations=false&amp;bg_color=24232A&amp;title_color=D0A69A&amp;text_color=F5F0ED&amp;icon_color=C1A4AB&amp;border_color=57404D" alt="Live GitHub contribution and repository statistics" height="170" />
@@ -153,8 +152,6 @@ BSc (Hons) in Information Technology · Specialization in Artificial Intelligenc
 ## Connect with me
 
 <div align="center">
-
-<p>Open to <strong>AI/ML Engineering Internship</strong> opportunities and collaboration on practical AI systems.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/nithushan-uthayarasa-6a4819377/"><img src="https://img.shields.io/badge/LinkedIn-Connect-57404D?style=for-the-badge&amp;labelColor=343039&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
