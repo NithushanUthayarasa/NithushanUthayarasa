@@ -5,6 +5,8 @@
 **AI/ML undergraduate · Applied AI and software engineering**<br />
 Third-year BSc (Hons) Information Technology student, specializing in Artificial Intelligence at SLIIT. Based in Jaffna, Sri Lanka.
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2700&amp;pause=800&amp;color=9A7488&amp;repeat=false&amp;width=600&amp;height=38&amp;lines=From+models+to+useful+AI+systems." alt="From models to useful AI systems" width="600" />
+
 I build retrieval systems, machine learning models, and AI-enabled applications. My work connects model design with evaluation, APIs, and interfaces people can use. I am seeking an **AI/ML Engineering Internship**.
 
 [Portfolio](https://nithushan-portfolio.vercel.app/) · [Résumé](https://nithushan-portfolio.vercel.app/CV_Nithushan_Uthayarasa.pdf) · [LinkedIn](https://www.linkedin.com/in/nithushan-uthayarasa-6a4819377/) · [Email](mailto:uthayarasanithushan103@gmail.com)
@@ -13,33 +15,45 @@ I build retrieval systems, machine learning models, and AI-enabled applications.
 
 ## Selected work
 
-### 01 · ContextIQ — RAG-Powered Intelligence System
+<table>
+  <tr><td>
+    <h3>01 · ContextIQ</h3>
+    <p><strong>RAG-powered intelligence system</strong> · Multi-document question answering with grounded responses and page-level citations.</p>
+    <p><strong>Engineering:</strong> Gemini embeddings, ChromaDB, BM25 + vector retrieval, RRF, TF-IDF reranking, parent-child chunks, context compression, and retrieval evaluation.</p>
+    <p><code>Python</code> <code>Gemini</code> <code>ChromaDB</code> <code>Streamlit</code></p>
+    <p><a href="https://github.com/NithushanUthayarasa/ContextIQ-RAG-System">Source code ↗</a> &nbsp;·&nbsp; <a href="https://contextiq-ai-rag.streamlit.app/">Live application ↗</a></p>
+  </td></tr>
+</table>
 
-A multi-document RAG application built for grounded answers with page-level citations and conversational queries. It combines Gemini embeddings and ChromaDB with BM25, reciprocal rank fusion, TF-IDF reranking, parent-child retrieval, context compression, retrieval inspection, and quantitative evaluation.
+<table>
+  <tr><td>
+    <h3>02 · Automated Manufacturing Inventory Coordinator</h3>
+    <p><strong>Team-built AI manufacturing platform</strong> · Full-stack inventory and defect workflows supported by a multi-agent LangGraph service.</p>
+    <p><strong>Engineering:</strong> Planning, validation and safety checks, inventory recommendations, quarantine, audit history, and web/mobile integration.</p>
+    <p><code>LangGraph</code> <code>FastAPI</code> <code>ASP.NET Core</code> <code>React / Flutter</code> <code>PostgreSQL</code></p>
+    <p><a href="https://github.com/ChandranSukirthan/Automated-Manufacturing-Inventory-Coordinator">Team repository ↗</a></p>
+  </td></tr>
+</table>
 
-**Stack:** Python · Gemini · ChromaDB · Streamlit<br />
-**Explore:** [Source code](https://github.com/NithushanUthayarasa/ContextIQ-RAG-System) · [Live application](https://contextiq-ai-rag.streamlit.app/)
+<table>
+  <tr><td>
+    <h3>03 · Garbage Image Classification</h3>
+    <p><strong>Computer vision for waste sorting</strong> · CNN transfer learning across 10 categories and more than 20,000 images.</p>
+    <p><strong>Result:</strong> 88.6% test accuracy, with preprocessing, augmentation, and model evaluation.</p>
+    <p><code>Python</code> <code>TensorFlow / Keras</code> <code>Computer vision</code></p>
+    <p><a href="https://github.com/NithushanUthayarasa/SmartWaste-Image-Classification-CNN">Source code ↗</a></p>
+  </td></tr>
+</table>
 
-### 02 · Automated Manufacturing Inventory Coordinator
-
-A team-built manufacturing platform with a multi-agent LangGraph service. It connects inventory recommendations and validation checks with defect management, quarantine workflows, and audit history across web and mobile interfaces.
-
-**Stack:** LangGraph · FastAPI · ASP.NET Core · React · Flutter · PostgreSQL<br />
-**Explore:** [Team repository](https://github.com/ChandranSukirthan/Automated-Manufacturing-Inventory-Coordinator)
-
-### 03 · Garbage Image Classification
-
-A CNN transfer learning system for classifying waste across 10 categories using more than 20,000 images. The pipeline covers preprocessing, augmentation, and model evaluation, with **88.6% test accuracy**.
-
-**Stack:** Python · TensorFlow/Keras · Computer vision<br />
-**Explore:** [Source code](https://github.com/NithushanUthayarasa/SmartWaste-Image-Classification-CNN)
-
-### 04 · Cyber Threats & Financial Loss Prediction
-
-An end-to-end prediction pipeline that compares Random Forest, CatBoost, XGBoost, LightGBM, and Extra Trees using feature engineering, cross-validation, hyperparameter tuning, and evaluation. CatBoost was selected as the best-performing model in the portfolio project.
-
-**Stack:** Python · scikit-learn · Gradient boosting<br />
-**Explore:** [Source code](https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-ML)
+<table>
+  <tr><td>
+    <h3>04 · Cyber Threats &amp; Financial Loss Prediction</h3>
+    <p><strong>Comparative machine learning pipeline</strong> · Predicts high-risk financial losses from cyber incidents.</p>
+    <p><strong>Engineering:</strong> Feature engineering, cross-validation, hyperparameter tuning, and comparison of Random Forest, CatBoost, XGBoost, LightGBM, and Extra Trees. CatBoost was selected as the best-performing model.</p>
+    <p><code>Python</code> <code>scikit-learn</code> <code>Gradient boosting</code></p>
+    <p><a href="https://github.com/NithushanUthayarasa/CyberThreat-Financial-Loss-Prediction-ML">Source code ↗</a></p>
+  </td></tr>
+</table>
 
 ---
 
@@ -55,56 +69,63 @@ An end-to-end prediction pipeline that compares Random Forest, CatBoost, XGBoost
 
 ## Technical toolkit
 
-**Languages**<br />
-![Python](https://img.shields.io/badge/Python-57404D?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-57404D?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-57404D?style=flat-square&logo=javascript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-57404D?style=flat-square&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-57404D?style=flat-square&logo=dart&logoColor=white)
+### Languages
 
-**AI and data libraries**<br />
-![TensorFlow](https://img.shields.io/badge/TensorFlow-57404D?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-57404D?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-57404D?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-57404D?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-57404D?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-57404D?style=flat-square&logo=numpy&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,java,js,cs,dart&amp;theme=dark" alt="Python, Java, JavaScript, C sharp, Dart" />
 
-**Generative AI and retrieval**<br />
-![Gemini](https://img.shields.io/badge/Gemini-57404D?style=flat-square&logo=googlegemini&logoColor=white)
-![LangChain Core](https://img.shields.io/badge/LangChain_Core-57404D?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-47454A?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-47454A?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-47454A?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-47454A?style=flat-square)
-![Vector search](https://img.shields.io/badge/Vector_Search-47454A?style=flat-square)
-![BM25](https://img.shields.io/badge/BM25-47454A?style=flat-square)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-47454A?style=flat-square)
+<sub>Python · Java · JavaScript · C# · Dart</sub>
 
-**Backend, web, and mobile**<br />
-![FastAPI](https://img.shields.io/badge/FastAPI-57404D?style=flat-square&logo=fastapi&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-57404D?style=flat-square&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-57404D?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-57404D?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-57404D?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-57404D?style=flat-square&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-57404D?style=flat-square&logo=flutter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-57404D?style=flat-square&logo=streamlit&logoColor=white)
+### AI and data libraries
 
-**Databases and developer tools**<br />
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-57404D?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-57404D?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-47454A?style=flat-square)
-![Git](https://img.shields.io/badge/Git-57404D?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-57404D?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-57404D?style=flat-square&logo=postman&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-57404D?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-57404D?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-57404D?style=flat-square&logo=intellijidea&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-57404D?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-57404D?style=flat-square&logo=render&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV" />
+
+<br />
+![Keras](https://img.shields.io/badge/Keras-57404D?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-57404D?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-57404D?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Generative AI and retrieval
+
+![Gemini](https://img.shields.io/badge/Gemini-57404D?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain Core](https://img.shields.io/badge/LangChain_Core-57404D?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-47454A?style=for-the-badge)
+
+<sub>RAG · LLMs · Embeddings · Vector search · BM25 · TF-IDF · Reciprocal rank fusion</sub>
+
+### Backend and APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,dotnet,spring,nodejs,express&amp;theme=dark" alt="FastAPI, ASP.NET Core, Spring Boot, Node.js, Express.js" />
+
+<sub>FastAPI · ASP.NET Core · Spring Boot · Node.js · Express.js</sub>
+
+### Frontend and mobile
+
+<img src="https://skillicons.dev/icons?i=react,flutter&amp;theme=dark" alt="React, Flutter" />
+
+<br />
+![Streamlit](https://img.shields.io/badge/Streamlit-57404D?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&amp;theme=dark" alt="PostgreSQL, MongoDB" />
+
+<br />
+![ChromaDB](https://img.shields.io/badge/ChromaDB-47454A?style=for-the-badge)
+
+### Developer tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,vercel&amp;theme=dark" alt="Git, GitHub, Postman, VS Code, IntelliJ IDEA, Vercel" />
+
+<br />
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-57404D?style=for-the-badge&logo=jupyter&logoColor=white)
+![Render](https://img.shields.io/badge/Render-57404D?style=for-the-badge&logo=render&logoColor=white)
 
 ---
+
+## GitHub activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=NithushanUthayarasa&amp;show_icons=true&amp;hide_rank=true&amp;disable_animations=false&amp;bg_color=24232A&amp;title_color=D0A69A&amp;text_color=F5F0ED&amp;icon_color=C1A4AB&amp;border_color=57404D" alt="Live GitHub contribution and repository statistics" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithushanUthayarasa&amp;layout=compact&amp;langs_count=6&amp;disable_animations=false&amp;bg_color=24232A&amp;title_color=D0A69A&amp;text_color=F5F0ED&amp;border_color=57404D" alt="Live top languages across public repositories" height="170" />
 
 ## Education
 
