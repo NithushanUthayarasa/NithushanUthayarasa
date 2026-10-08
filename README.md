@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" alt="Nithushan Uthayarasa — AI and machine learning engineering; retrieval, computer vision, and agentic systems" width="100%" />
+<img src="assets/profile-header.svg" alt="Nithushan Uthayarasa — AI, machine learning, and software engineering; RAG, LLMs, deep learning, and computer vision" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=9A7488&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=42&amp;lines=Building+grounded+AI+systems;Computer+vision+and+model+evaluation;From+retrieval+to+usable+applications" alt="Building grounded AI systems; computer vision and model evaluation; from retrieval to usable applications" width="650" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;duration=2600&amp;pause=900&amp;color=9A7488&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=42&amp;lines=RAG+%26+LLM+applications;Machine+learning+%26+deep+learning;AI%2FML+engineering+%26+software+systems" alt="RAG and LLM applications; machine learning and deep learning; AI/ML engineering and software systems" width="650" />
 
-<p><strong>AI undergraduate at SLIIT</strong> · Jaffna, Sri Lanka<br />
-Building practical AI systems across retrieval, machine learning, APIs, and applications.</p>
+<p><strong>Artificial Intelligence undergraduate at SLIIT</strong> · Jaffna, Sri Lanka<br />
+Developing AI/ML systems from models and retrieval pipelines to deployed applications.</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=NithushanUthayarasa&amp;style=for-the-badge&amp;color=57404D&amp;label=PROFILE+VIEWS" alt="Profile views" />
@@ -22,57 +22,69 @@ Building practical AI systems across retrieval, machine learning, APIs, and appl
 
 ## About me
 
-I am a **third-year BSc (Hons) Information Technology undergraduate specializing in Artificial Intelligence at SLIIT**. My work spans machine learning, computer vision, retrieval-augmented generation, and multi-agent workflows.
+I am a **third-year BSc (Hons) Information Technology undergraduate specializing in Artificial Intelligence at SLIIT**. I work at the intersection of **machine learning, deep learning, LLMs, RAG, and software engineering**.
 
-I enjoy the complete development process: defining a problem, building a model or retrieval pipeline, measuring its behavior, and integrating it with APIs, databases, and interfaces.
+I build systems end to end: prepare data, train or connect models, design retrieval, evaluate results, and deliver the work through APIs and usable interfaces. My projects include a cited, multi-document RAG assistant, a computer vision classifier, and an AI-supported manufacturing platform.
 
 ## What I build
 
-- **AI systems:** grounded document question answering, hybrid retrieval, LLM applications, and agent coordination.
-- **Machine learning:** classification, transfer learning, feature engineering, cross-validation, and model evaluation.
-- **Applications:** backend services and full-stack experiences that make AI capabilities usable.
+- **RAG and LLM applications:** combine document processing, embeddings, hybrid search, reranking, citations, and evaluation to produce grounded answers.
+- **ML and deep learning models:** develop classification and computer vision pipelines with preprocessing, transfer learning, cross-validation, and measurable results.
+- **Software systems:** connect AI services to REST APIs, databases, authentication, and web or mobile interfaces.
 
 ## Technical expertise
 
-### Programming
+### Programming languages
 
 <img src="https://skillicons.dev/icons?i=py,java,js&amp;theme=dark" alt="Python, Java, JavaScript" />
 
-<sub>Python · Java · JavaScript</sub>
+`Python` · `Java` · `JavaScript`
 
-### AI / Machine Learning
+### Machine learning & deep learning
 
-`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `RAG` · `LLMs` · `Agentic AI` · `Vector Embeddings`
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV" />
 
-### Frameworks & Libraries
+**Libraries:** `TensorFlow / Keras` · `scikit-learn` · `OpenCV` · `Pandas` · `NumPy`
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,react,flutter&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV, React, Flutter" />
+**Methods:** `Machine Learning` · `Deep Learning` · `Transfer Learning` · `NLP` · `Computer Vision` · `Model Evaluation`
 
-**Modeling and data:** `TensorFlow / Keras` · `scikit-learn` · `OpenCV` · `Pandas` · `NumPy`
+### Generative AI & retrieval
 
-**Orchestration and interfaces:** `LangGraph` · `LangChain Core` · `React` · `Flutter`
+**Frameworks and models:** `LangChain Core` · `LangGraph` · `Gemini` · `LLM APIs`
 
-### Backend & APIs
+**Systems:** `RAG` · `LLMs` · `AI Agents` · `Embeddings` · `Vector Search` · `Hybrid Retrieval` · `Vector Databases` · `ChromaDB`
+
+**Ranking:** `BM25` · `TF-IDF` · `Reciprocal Rank Fusion`
+
+### Backend development & APIs
 
 <img src="https://skillicons.dev/icons?i=fastapi,dotnet,spring,nodejs,express&amp;theme=dark" alt="FastAPI, ASP.NET Core, Spring Boot, Node.js, Express.js" />
 
-`FastAPI` · `ASP.NET Core` · `Spring Boot` · `Node.js` · `Express.js` · `REST APIs` · `LLM APIs`
+`FastAPI` · `ASP.NET Core` · `Spring Boot` · `Node.js` · `Express.js`
 
-### Databases & Retrieval
+**API design:** `REST APIs` · `Authentication & Authorization` · `JWT`
+
+### Frontend & interfaces
+
+<img src="https://skillicons.dev/icons?i=react,flutter&amp;theme=dark" alt="React, Flutter" />
+
+`React` · `Flutter` · `Streamlit`
+
+### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&amp;theme=dark" alt="PostgreSQL, MongoDB" />
 
-`PostgreSQL` · `MongoDB` · `ChromaDB` · `Vector Databases` · `BM25` · `TF-IDF`
+`PostgreSQL` · `MongoDB` · `Database Design`
 
 ### Software Engineering
 
-`Object-Oriented Programming` · `Full-Stack Development` · `Database Design` · `Authentication & Authorization` · `JWT`
+`Object-Oriented Programming` · `Full-Stack Development` · `Model-to-API Integration`
 
-### Tools
+### Development & deployment tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,vercel&amp;theme=dark" alt="Git, GitHub, Postman, VS Code, IntelliJ IDEA, Vercel" />
 
-`Git` · `GitHub` · `Streamlit` · `Postman` · `Jupyter Notebook` · `VS Code` · `IntelliJ IDEA` · `Vercel` · `Render`
+`Git` · `GitHub` · `Postman` · `Jupyter Notebook` · `VS Code` · `IntelliJ IDEA` · `Vercel` · `Render`
 
 ---
 
