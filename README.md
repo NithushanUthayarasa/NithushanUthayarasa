@@ -1,19 +1,83 @@
-<img src="./assets/profile-banner.svg" alt="Nithushan Uthayarasa — AI and machine learning engineering" width="100%" />
+<div align="center">
 
-# Nithushan Uthayarasa
+<h1>Nithushan Uthayarasa</h1>
 
-**AI/ML undergraduate · Applied AI and software engineering**<br />
-Third-year BSc (Hons) Information Technology student, specializing in Artificial Intelligence at SLIIT. Based in Jaffna, Sri Lanka.
+<p><strong>AI/ML Undergraduate · Aspiring AI/ML Engineer</strong><br />
+Third-year Artificial Intelligence student at SLIIT · Jaffna, Sri Lanka</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=2700&amp;pause=800&amp;color=9A7488&amp;repeat=false&amp;width=600&amp;height=38&amp;lines=From+models+to+useful+AI+systems." alt="From models to useful AI systems" width="600" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=700&amp;color=9A7488&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=580&amp;height=34&amp;lines=RAG+systems+%7C+Computer+vision+%7C+Agentic+workflows" alt="RAG systems, computer vision, and agentic workflows" width="580" />
 
-I build retrieval systems, machine learning models, and AI-enabled applications. My work connects model design with evaluation, APIs, and interfaces people can use. I am seeking an **AI/ML Engineering Internship**.
+<p>I build evaluated RAG pipelines and ML models, then integrate them into APIs and full-stack applications.<br />
+Currently seeking an <strong>AI/ML Engineering Internship</strong>.</p>
 
-[Portfolio](https://nithushan-portfolio.vercel.app/) · [Résumé](https://nithushan-portfolio.vercel.app/CV_Nithushan_Uthayarasa.pdf) · [LinkedIn](https://www.linkedin.com/in/nithushan-uthayarasa-6a4819377/) · [Email](mailto:uthayarasanithushan103@gmail.com)
+<p>
+  <a href="https://nithushan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-57404D?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://nithushan-portfolio.vercel.app/CV_Nithushan_Uthayarasa.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-57404D?style=for-the-badge" alt="Résumé" /></a>
+  <a href="https://www.linkedin.com/in/nithushan-uthayarasa-6a4819377/"><img src="https://img.shields.io/badge/LinkedIn-57404D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:uthayarasanithushan103@gmail.com"><img src="https://img.shields.io/badge/Email-57404D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
+
+</div>
 
 ---
 
-## Selected work
+## About me
+
+I am a **third-year BSc (Hons) Information Technology undergraduate specializing in Artificial Intelligence at SLIIT**. My work spans machine learning, computer vision, retrieval-augmented generation, and multi-agent workflows.
+
+I enjoy the complete development process: defining a problem, building a model or retrieval pipeline, measuring its behavior, and integrating it with APIs, databases, and interfaces.
+
+## What I build
+
+- **AI systems:** grounded document question answering, hybrid retrieval, LLM applications, and agent coordination.
+- **Machine learning:** classification, transfer learning, feature engineering, cross-validation, and model evaluation.
+- **Applications:** backend services and full-stack experiences that make AI capabilities usable.
+
+## Technical expertise
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=py,java,js&amp;theme=dark" alt="Python, Java, JavaScript" />
+
+<sub>Python · Java · JavaScript</sub>
+
+### AI / Machine Learning
+
+`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `RAG` · `LLMs` · `Agentic AI` · `Vector Embeddings`
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,react,flutter&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV, React, Flutter" />
+
+**Modeling and data:** `TensorFlow / Keras` · `scikit-learn` · `OpenCV` · `Pandas` · `NumPy`
+
+**Orchestration and interfaces:** `LangGraph` · `LangChain Core` · `React` · `Flutter`
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,dotnet,spring,nodejs,express&amp;theme=dark" alt="FastAPI, ASP.NET Core, Spring Boot, Node.js, Express.js" />
+
+`FastAPI` · `ASP.NET Core` · `Spring Boot` · `Node.js` · `Express.js` · `REST APIs` · `LLM APIs`
+
+### Databases & Retrieval
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&amp;theme=dark" alt="PostgreSQL, MongoDB" />
+
+`PostgreSQL` · `MongoDB` · `ChromaDB` · `Vector Databases` · `BM25` · `TF-IDF`
+
+### Software Engineering
+
+`Object-Oriented Programming` · `Full-Stack Development` · `Database Design` · `Authentication & Authorization` · `JWT`
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,vercel&amp;theme=dark" alt="Git, GitHub, Postman, VS Code, IntelliJ IDEA, Vercel" />
+
+`Git` · `GitHub` · `Streamlit` · `Postman` · `Jupyter Notebook` · `VS Code` · `IntelliJ IDEA` · `Vercel` · `Render`
+
+---
+
+## Featured projects
 
 <table width="100%">
   <tr><td>
@@ -55,76 +119,11 @@ I build retrieval systems, machine learning models, and AI-enabled applications.
   </td></tr>
 </table>
 
----
+## Current focus
 
-## Areas of focus
+`Advanced RAG evaluation` · `Agentic workflows` · `Computer vision` · `AI service design` · `Full-stack integration`
 
-| Discipline | Practical work |
-| :--- | :--- |
-| **Machine learning** | Predictive modeling, classification, feature engineering, validation, and model selection |
-| **Computer vision** | CNNs, transfer learning, image preprocessing, augmentation, and performance analysis |
-| **RAG and LLM systems** | Embeddings, hybrid retrieval, reranking, grounded generation, citations, and evaluation |
-| **Agentic AI** | LangGraph workflows, validation, tool execution, and coordinated AI services |
-| **AI application engineering** | APIs, databases, web and mobile interfaces, and full-stack integration |
-
-## Technical toolkit
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=py,java,js,cs,dart&amp;theme=dark" alt="Python, Java, JavaScript, C sharp, Dart" />
-
-<sub>Python · Java · JavaScript · C# · Dart</sub>
-
-### AI and data libraries
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV" />
-
-<p>
-  <img src="https://img.shields.io/badge/Keras-57404D?style=for-the-badge&amp;logo=keras&amp;logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Pandas-57404D?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-57404D?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
-</p>
-
-### Generative AI and retrieval
-
-<p>
-  <img src="https://img.shields.io/badge/Gemini-57404D?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain_Core-57404D?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain Core" />
-  <img src="https://img.shields.io/badge/LangGraph-47454A?style=for-the-badge" alt="LangGraph" />
-</p>
-
-<sub>RAG · LLMs · Embeddings · Vector search · BM25 · TF-IDF · Reciprocal rank fusion</sub>
-
-### Backend and APIs
-
-<img src="https://skillicons.dev/icons?i=fastapi,dotnet,spring,nodejs,express&amp;theme=dark" alt="FastAPI, ASP.NET Core, Spring Boot, Node.js, Express.js" />
-
-<sub>FastAPI · ASP.NET Core · Spring Boot · Node.js · Express.js</sub>
-
-### Frontend and mobile
-
-<img src="https://skillicons.dev/icons?i=react,flutter&amp;theme=dark" alt="React, Flutter" />
-
-<p><img src="https://img.shields.io/badge/Streamlit-57404D?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" /></p>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&amp;theme=dark" alt="PostgreSQL, MongoDB" />
-
-<p><img src="https://img.shields.io/badge/ChromaDB-47454A?style=for-the-badge" alt="ChromaDB" /></p>
-
-### Developer tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,vercel&amp;theme=dark" alt="Git, GitHub, Postman, VS Code, IntelliJ IDEA, Vercel" />
-
-<p>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-57404D?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Render-57404D?style=for-the-badge&amp;logo=render&amp;logoColor=white" alt="Render" />
-</p>
-
----
-
-## GitHub activity
+## GitHub analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=NithushanUthayarasa&amp;show_icons=true&amp;hide_rank=true&amp;disable_animations=false&amp;bg_color=24232A&amp;title_color=D0A69A&amp;text_color=F5F0ED&amp;icon_color=C1A4AB&amp;border_color=57404D" alt="Live GitHub contribution and repository statistics" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithushanUthayarasa&amp;layout=compact&amp;langs_count=6&amp;disable_animations=false&amp;bg_color=24232A&amp;title_color=D0A69A&amp;text_color=F5F0ED&amp;border_color=57404D" alt="Live top languages across public repositories" height="170" />
@@ -132,11 +131,11 @@ I build retrieval systems, machine learning models, and AI-enabled applications.
 ## Education
 
 **Sri Lanka Institute of Information Technology (SLIIT)**<br />
-BSc (Hons) in Information Technology, specialization in Artificial Intelligence<br />
+BSc (Hons) in Information Technology · Specialization in Artificial Intelligence<br />
 2024–2028 · Third-year undergraduate
 
 ## Contact
 
 I am open to **AI/ML Engineering Internship** opportunities and collaboration on practical AI systems.
 
-[Email me](mailto:uthayarasanithushan103@gmail.com) · [Portfolio](https://nithushan-portfolio.vercel.app/) · [GitHub](https://github.com/NithushanUthayarasa) · [LinkedIn](https://www.linkedin.com/in/nithushan-uthayarasa-6a4819377/)
+[Email](mailto:uthayarasanithushan103@gmail.com) · [Portfolio](https://nithushan-portfolio.vercel.app/) · [GitHub](https://github.com/NithushanUthayarasa) · [LinkedIn](https://www.linkedin.com/in/nithushan-uthayarasa-6a4819377/)
