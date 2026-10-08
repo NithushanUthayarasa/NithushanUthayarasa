@@ -1,21 +1,20 @@
 <div align="center">
 
-<h1>Nithushan Uthayarasa</h1>
+<img src="assets/profile-header.svg" alt="Nithushan Uthayarasa — AI and machine learning engineering; retrieval, computer vision, and agentic systems" width="100%" />
 
-<p><strong>AI/ML Undergraduate · Aspiring AI/ML Engineer</strong><br />
-Third-year Artificial Intelligence student at SLIIT · Jaffna, Sri Lanka</p>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=700&amp;color=9A7488&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=580&amp;height=34&amp;lines=RAG+systems+%7C+Computer+vision+%7C+Agentic+workflows" alt="RAG systems, computer vision, and agentic workflows" width="580" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=2600&amp;pause=900&amp;color=9A7488&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=42&amp;lines=Building+grounded+AI+systems;Computer+vision+and+model+evaluation;From+retrieval+to+usable+applications" alt="Building grounded AI systems; computer vision and model evaluation; from retrieval to usable applications" width="650" />
 
-<p>I build evaluated RAG pipelines and ML models, then integrate them into APIs and full-stack applications.<br />
-Currently seeking an <strong>AI/ML Engineering Internship</strong>.</p>
+<p><strong>AI undergraduate at SLIIT</strong> · Jaffna, Sri Lanka<br />
+Building practical AI systems across retrieval, machine learning, APIs, and applications.</p>
 
 <p>
-  <a href="https://nithushan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-57404D?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://nithushan-portfolio.vercel.app/CV_Nithushan_Uthayarasa.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-57404D?style=for-the-badge" alt="Résumé" /></a>
-  <a href="https://www.linkedin.com/in/nithushan-uthayarasa-6a4819377/"><img src="https://img.shields.io/badge/LinkedIn-57404D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:uthayarasanithushan103@gmail.com"><img src="https://img.shields.io/badge/Email-57404D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=NithushanUthayarasa&amp;style=for-the-badge&amp;color=57404D&amp;label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NithushanUthayarasa?style=for-the-badge&amp;labelColor=343039&amp;color=57404D&amp;logo=github&amp;logoColor=white&amp;label=FOLLOWERS" alt="GitHub followers" />
 </p>
+
+<p><a href="https://nithushan-portfolio.vercel.app/">Portfolio</a> · <a href="https://nithushan-portfolio.vercel.app/CV_Nithushan_Uthayarasa.pdf">Résumé</a></p>
 
 </div>
 
@@ -134,8 +133,23 @@ I enjoy the complete development process: defining a problem, building a model o
 BSc (Hons) in Information Technology · Specialization in Artificial Intelligence<br />
 2024–2028 · Third-year undergraduate
 
-## Contact
+---
 
-I am open to **AI/ML Engineering Internship** opportunities and collaboration on practical AI systems.
+## Connect with me
 
-[Email](mailto:uthayarasanithushan103@gmail.com) · [Portfolio](https://nithushan-portfolio.vercel.app/) · [GitHub](https://github.com/NithushanUthayarasa) · [LinkedIn](https://www.linkedin.com/in/nithushan-uthayarasa-6a4819377/)
+<div align="center">
+
+<p>Open to <strong>AI/ML Engineering Internship</strong> opportunities and collaboration on practical AI systems.</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/nithushan-uthayarasa-6a4819377/"><img src="https://img.shields.io/badge/LinkedIn-Connect-57404D?style=for-the-badge&amp;labelColor=343039&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:uthayarasanithushan103@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-57404D?style=for-the-badge&amp;labelColor=343039&amp;logo=gmail&amp;logoColor=white" alt="Send an email" /></a>
+  <a href="https://github.com/NithushanUthayarasa"><img src="https://img.shields.io/badge/GitHub-Follow-57404D?style=for-the-badge&amp;labelColor=343039&amp;logo=github&amp;logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="https://nithushan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-57404D?style=for-the-badge&amp;labelColor=343039&amp;logo=vercel&amp;logoColor=white" alt="View portfolio" /></a>
+</p>
+
+<p><strong>Build · Evaluate · Improve</strong></p>
+
+<img src="assets/profile-footer.svg" alt="Muted plum wave divider" width="100%" />
+
+</div>

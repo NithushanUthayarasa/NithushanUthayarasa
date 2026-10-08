@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+  <title id="title">Nithushan Uthayarasa — AI and machine learning engineering</title>
+  <desc id="desc">A compact charcoal and plum profile banner with Nithushan's name and areas of work.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop offset="0" stop-color="#27252C"/>
+      <stop offset="0.57" stop-color="#46343F"/>
+      <stop offset="1" stop-color="#634B59"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="190" rx="12" fill="url(#background)"/>
+  <path d="M0 168 C225 139 362 179 548 158 S841 142 1000 166 L1000 190 L0 190Z" fill="#BEA4AC" opacity=".16"/>
+  <path d="M0 177 C245 164 363 190 568 174 S834 159 1000 180 L1000 190 L0 190Z" fill="#15161B" opacity=".38"/>
+  <text x="500" y="77" fill="#FAF6F3" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="1.2" text-anchor="middle">Nithushan Uthayarasa</text>
+  <text x="500" y="115" fill="#E9DDE1" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="1.6" text-anchor="middle">AI / MACHINE LEARNING ENGINEERING</text>
+  <text x="500" y="141" fill="#C9B7BD" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.1" text-anchor="middle">RETRIEVAL  ·  COMPUTER VISION  ·  AGENTIC SYSTEMS</text>
+</svg>
