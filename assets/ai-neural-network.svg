@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="108" viewBox="0 0 1200 108" role="img" aria-labelledby="title desc">
+  <title id="title">Animated neural network separator</title>
+  <desc id="desc">Subtle glowing network nodes connect across a dark navy strip.</desc>
+  <defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#0B1730"/><stop offset=".25" stop-color="#1D7FC0"/><stop offset=".5" stop-color="#54D9EC"/><stop offset=".75" stop-color="#1D7FC0"/><stop offset="1" stop-color="#0B1730"/></linearGradient><radialGradient id="halo"><stop stop-color="#38D9E8" stop-opacity=".42"/><stop offset="1" stop-color="#38D9E8" stop-opacity="0"/></radialGradient></defs>
+  <rect width="1200" height="108" rx="12" fill="#0B1730"/>
+  <path d="M0 54H1200" stroke="url(#line)" stroke-opacity=".65"/>
+  <path d="M232 54 322 24 422 65 524 31 617 67 714 33 818 63 924 27 1015 54M322 24 422 65 524 31 617 67 714 33 818 63 924 27" fill="none" stroke="#2EA8CF" stroke-opacity=".38" stroke-width="1.3"/>
+  <path d="M232 54 322 84 422 65 524 81 617 67 714 81 818 63 924 83 1015 54" fill="none" stroke="#4F91E4" stroke-opacity=".35" stroke-width="1.3"/>
+  <g fill="url(#halo)"><circle cx="422" cy="65" r="22"/><circle cx="617" cy="67" r="28"/><circle cx="818" cy="63" r="22"/></g>
+  <g fill="#65DCEC"><circle cx="232" cy="54" r="3"/><circle cx="322" cy="24" r="3"/><circle cx="322" cy="84" r="3"/><circle cx="422" cy="65" r="4"/><circle cx="524" cy="31" r="3"/><circle cx="524" cy="81" r="3"/><circle cx="617" cy="67" r="5"/><circle cx="714" cy="33" r="3"/><circle cx="714" cy="81" r="3"/><circle cx="818" cy="63" r="4"/><circle cx="924" cy="27" r="3"/><circle cx="924" cy="83" r="3"/><circle cx="1015" cy="54" r="3"/></g>
+  <circle cx="617" cy="67" r="11" fill="none" stroke="#65DCEC" stroke-opacity=".7"><animate attributeName="r" values="7;20;7" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="4s" repeatCount="indefinite"/></circle>
+  <circle r="3" fill="#FFFFFF"><animateMotion dur="8s" repeatCount="indefinite" path="M232 54 322 24 422 65 524 31 617 67 714 33 818 63 924 27 1015 54"/></circle>
+  <circle r="3" fill="#4895EF"><animateMotion dur="10s" repeatCount="indefinite" path="M1015 54 924 83 818 63 714 81 617 67 524 81 422 65 322 84 232 54"/></circle>
+</svg>
