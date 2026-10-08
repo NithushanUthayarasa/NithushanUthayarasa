@@ -29,28 +29,31 @@ I build systems end to end: prepare data, train or connect models, design retrie
 
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&amp;theme=dark" alt="TensorFlow, scikit-learn, OpenCV" />
 
-| Area | Skills |
-| --- | --- |
-| Frameworks | `TensorFlow / Keras` · `scikit-learn` · `OpenCV` |
-| Data | `Pandas` · `NumPy` |
-| Methods | `Machine Learning` · `Deep Learning` · `Transfer Learning` · `Model Evaluation` |
-| Domains | `NLP` · `Computer Vision` |
+<table width="100%">
+  <tr><th width="135">Area</th><th>Skills</th></tr>
+  <tr><td>Frameworks</td><td><code>TensorFlow / Keras</code> · <code>scikit-learn</code> · <code>OpenCV</code></td></tr>
+  <tr><td>Data</td><td><code>Pandas</code> · <code>NumPy</code></td></tr>
+  <tr><td>Methods</td><td><code>Machine Learning</code> · <code>Deep Learning</code> · <code>Transfer Learning</code> · <code>Model Evaluation</code></td></tr>
+  <tr><td>Domains</td><td><code>NLP</code> · <code>Computer Vision</code></td></tr>
+</table>
 
 ### Generative AI & agents
 
-| Area | Skills |
-| --- | --- |
-| Orchestration | `LangChain Core` · `LangGraph` |
-| Models & APIs | `Gemini` · `LLMs` · `LLM APIs` |
-| Agents | `AI Agents` · `Agentic Workflows` · `Multi-Agent Systems` |
+<table width="100%">
+  <tr><th width="135">Area</th><th>Skills</th></tr>
+  <tr><td>Orchestration</td><td><code>LangChain Core</code> · <code>LangGraph</code></td></tr>
+  <tr><td>Models &amp; APIs</td><td><code>Gemini</code> · <code>LLMs</code> · <code>LLM APIs</code></td></tr>
+  <tr><td>Agents</td><td><code>AI Agents</code> · <code>Agentic Workflows</code> · <code>Multi-Agent Systems</code></td></tr>
+</table>
 
 ### Retrieval & RAG
 
-| Area | Skills |
-| --- | --- |
-| Pipelines | `RAG` · `Hybrid Retrieval` · `Citations` · `Retrieval Evaluation` |
-| Vector search | `Embeddings` · `Vector Search` · `Vector Databases` · `ChromaDB` |
-| Ranking | `BM25` · `TF-IDF` · `Reciprocal Rank Fusion` · `Reranking` |
+<table width="100%">
+  <tr><th width="135">Area</th><th>Skills</th></tr>
+  <tr><td>Pipelines</td><td><code>RAG</code> · <code>Hybrid Retrieval</code> · <code>Citations</code> · <code>Retrieval Evaluation</code></td></tr>
+  <tr><td>Vector search</td><td><code>Embeddings</code> · <code>Vector Search</code> · <code>Vector Databases</code> · <code>ChromaDB</code></td></tr>
+  <tr><td>Ranking</td><td><code>BM25</code> · <code>TF-IDF</code> · <code>Reciprocal Rank Fusion</code> · <code>Reranking</code></td></tr>
+</table>
 
 ---
 
